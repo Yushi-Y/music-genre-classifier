@@ -4,6 +4,7 @@ Classifying Music Genre on 8k Audio Tracks with Classic ML Algorithms.
 - **Final Report:** [Report](https://github.com/Yushi-Y/music_genre_classifier)
   
 Deployed a variety of classic machine learning classifiers: 
+- LDA and QDA
 - Naive Bayes
 - Logistic Regression
 - K-nearest neighbor
