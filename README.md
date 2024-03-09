@@ -9,4 +9,5 @@ Deployed a variety of classic machine learning classifiers:
 - MLPs
 to predict music genres based on dimensionality-reduced audio track features (using PCA and LDA).
 
-- Final Report: [Report]{https://github.com/Yushi-Y/music_genre_classifier}
+
+- **Final Report:** [Report](https://github.com/Yushi-Y/music_genre_classifier)
