@@ -9,6 +9,7 @@ Deployed a variety of classic machine learning classifiers:
 - K-nearest neighbor
 - Tree Ensembles (Bagging and Boosting)
 - MLPs
+  
 to predict music genres based on dimensionality-reduced audio track features using LDA.
 
 
